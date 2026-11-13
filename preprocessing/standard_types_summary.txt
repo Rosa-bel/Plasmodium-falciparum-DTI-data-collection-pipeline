@@ -1,0 +1,192 @@
+Summary of Standard Types and observed Standard Relation / Standard Units values
+-
+Standard Type: % Control
+  Occurrences: 1
+  Standard Relation values: ['=']
+  Standard Units values: ['%']
+
+Standard Type: Activity
+  Occurrences: 490
+  Standard Relation values: ['<', '=', '>']
+  Standard Units values: ['%', 'OD/mm2', 'U']
+  Rows missing Standard Relation: 279
+  Rows missing Standard Units: 282
+
+Standard Type: BHIA50
+  Occurrences: 20
+  Standard Relation values: ['=', '>']
+  Standard Units values: ['<none found>']
+  Rows missing Standard Units: 20
+
+Standard Type: Delta Tm
+  Occurrences: 29
+  Standard Relation values: ['<=', '=']
+  Standard Units values: ['degrees C']
+
+Standard Type: FC
+  Occurrences: 34
+  Standard Relation values: ['=']
+  Standard Units values: ['-']
+  Rows missing Standard Units: 33
+
+Standard Type: GR activity
+  Occurrences: 2
+  Standard Relation values: ['=']
+  Standard Units values: ['mU mg-1']
+
+Standard Type: GST activity
+  Occurrences: 3
+  Standard Relation values: ['=']
+  Standard Units values: ['mU mg-1']
+
+Standard Type: IC50
+  Occurrences: 4638
+  Standard Relation values: ['<', '<=', '=', '>', '~']
+  Standard Units values: ['milliequivalent', 'molar ratio', 'nM', 'ug.mL-1']
+  Rows missing Standard Relation: 68
+  Rows missing Standard Units: 44
+
+Standard Type: IC50 ratio
+  Occurrences: 29
+  Standard Relation values: ['=']
+  Standard Units values: ['<none found>']
+  Rows missing Standard Units: 29
+
+Standard Type: INH
+  Occurrences: 1
+  Standard Relation values: ['>']
+  Standard Units values: ['uM']
+
+Standard Type: Inhibition
+  Occurrences: 1431
+  Standard Relation values: ['<', '=', '>', '>=']
+  Standard Units values: ['%', 'uM']
+  Rows missing Standard Relation: 414
+  Rows missing Standard Units: 9
+
+Standard Type: K
+  Occurrences: 47
+  Standard Relation values: ['=']
+  Standard Units values: ['/M/min', '/M/s', '/min', '/s', '10^-6/s', '10^4/M/s']
+
+Standard Type: K cat
+  Occurrences: 1
+  Standard Relation values: ['=']
+  Standard Units values: ['s-1']
+
+Standard Type: K cat/Km
+  Occurrences: 1
+  Standard Relation values: ['=']
+  Standard Units values: ['1/M*s']
+
+Standard Type: Ka
+  Occurrences: 2
+  Standard Relation values: ['=']
+  Standard Units values: ["10'5/M", '10^3/M/s']
+
+Standard Type: Kcat
+  Occurrences: 2
+  Standard Relation values: ['=']
+  Standard Units values: ['/s']
+
+Standard Type: Kd
+  Occurrences: 148
+  Standard Relation values: ['=', '>', '>=']
+  Standard Units values: ['nM']
+
+Standard Type: Ki
+  Occurrences: 502
+  Standard Relation values: ['<', '<=', '=', '>', '~']
+  Standard Units values: ['nM']
+  Rows missing Standard Relation: 43
+  Rows missing Standard Units: 155
+
+Standard Type: Ki.c
+  Occurrences: 4
+  Standard Relation values: ['=']
+  Standard Units values: ['<none found>']
+  Rows missing Standard Units: 4
+
+Standard Type: Kinact
+  Occurrences: 9
+  Standard Relation values: ['=']
+  Standard Units values: ['/min']
+
+Standard Type: Km
+  Occurrences: 13
+  Standard Relation values: ['=']
+  Standard Units values: ['nM']
+  Rows missing Standard Units: 2
+
+Standard Type: MIC
+  Occurrences: 6
+  Standard Relation values: ['=', '>']
+  Standard Units values: ['nM']
+
+Standard Type: Mean
+  Occurrences: 6
+  Standard Relation values: ['=']
+  Standard Units values: ['pM mg-1']
+
+Standard Type: NI
+  Occurrences: 11
+  Standard Relation values: ['<none found>']
+  Standard Units values: ['<none found>']
+  Rows missing Standard Relation: 11
+  Rows missing Standard Units: 11
+
+Standard Type: Ratio
+  Occurrences: 303
+  Standard Relation values: ['=', '>']
+  Standard Units values: ['/M/s', '/s/M']
+  Rows missing Standard Relation: 1
+  Rows missing Standard Units: 290
+
+Standard Type: Ratio IC50
+  Occurrences: 62
+  Standard Relation values: ['=', '>']
+  Standard Units values: ['<none found>']
+  Rows missing Standard Units: 62
+
+Standard Type: Ratio Ki
+  Occurrences: 4
+  Standard Relation values: ['=', '>']
+  Standard Units values: ['<none found>']
+  Rows missing Standard Units: 4
+
+Standard Type: Relative activity
+  Occurrences: 341
+  Standard Relation values: ['=']
+  Standard Units values: ['<none found>']
+  Rows missing Standard Relation: 1
+  Rows missing Standard Units: 341
+
+Standard Type: SI
+  Occurrences: 48
+  Standard Relation values: ['=', '>']
+  Standard Units values: ['<none found>']
+  Rows missing Standard Relation: 5
+  Rows missing Standard Units: 48
+
+Standard Type: Selectivity index
+  Occurrences: 26
+  Standard Relation values: ['=', '>']
+  Standard Units values: ['<none found>']
+  Rows missing Standard Units: 26
+
+Standard Type: Selectivity ratio
+  Occurrences: 22
+  Standard Relation values: ['=', '>']
+  Standard Units values: ['<none found>']
+  Rows missing Standard Units: 22
+
+Standard Type: T1/2
+  Occurrences: 3
+  Standard Relation values: ['=']
+  Standard Units values: ['hr']
+
+Standard Type: VAR
+  Occurrences: 17
+  Standard Relation values: ['=']
+  Standard Units values: ['<none found>']
+  Rows missing Standard Units: 17

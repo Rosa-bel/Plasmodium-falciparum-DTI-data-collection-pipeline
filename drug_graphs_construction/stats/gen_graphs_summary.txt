@@ -1,0 +1,90 @@
+Per-file graph summary:
+D00002.pt: nodes=44, feat_dim=86, undirected_edges=48, avg_degree=2.182, aromatic_count=15
+  Feature layout: 46 atom type + 11 degree + 7 implicit valence + 10 total H + 9 hybridization + 1 formal charge + 1 radical electrons + 1 aromatic
+  First 10 atoms (decoded):
+    atom 0: type=P, degree=1, implicit_valence=2, total_num_hs=2, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 1: type=Si, degree=3, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 2: type=Cl, degree=1, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 3: type=Si, degree=3, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=True
+    atom 4: type=Si, degree=2, implicit_valence=1, total_num_hs=1, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=True
+    atom 5: type=Si, degree=2, implicit_valence=1, total_num_hs=1, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=True
+    atom 6: type=Si, degree=2, implicit_valence=1, total_num_hs=1, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=True
+    atom 7: type=P, degree=3, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=1.0, radical_electrons=0.0, aromatic=True
+    atom 8: type=Si, degree=3, implicit_valence=1, total_num_hs=1, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 9: type=Cl, degree=2, implicit_valence=0, total_num_hs=0, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+D00003.pt: nodes=2, feat_dim=86, undirected_edges=1, avg_degree=1.000, aromatic_count=0
+  Feature layout: 46 atom type + 11 degree + 7 implicit valence + 10 total H + 9 hybridization + 1 formal charge + 1 radical electrons + 1 aromatic
+  First 10 atoms (decoded):
+    atom 0: type=Cl, degree=1, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 1: type=Cl, degree=1, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+D00005.pt: nodes=53, feat_dim=86, undirected_edges=58, avg_degree=2.189, aromatic_count=23
+  Feature layout: 46 atom type + 11 degree + 7 implicit valence + 10 total H + 9 hybridization + 1 formal charge + 1 radical electrons + 1 aromatic
+  First 10 atoms (decoded):
+    atom 0: type=Si, degree=1, implicit_valence=3, total_num_hs=3, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 1: type=Si, degree=3, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=True
+    atom 2: type=Si, degree=2, implicit_valence=1, total_num_hs=1, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=True
+    atom 3: type=Si, degree=3, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=True
+    atom 4: type=P, degree=2, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=True
+    atom 5: type=Si, degree=3, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=True
+    atom 6: type=Si, degree=3, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=True
+    atom 7: type=Cl, degree=1, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 8: type=P, degree=2, implicit_valence=0, total_num_hs=1, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=True
+    atom 9: type=Si, degree=3, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=True
+D00006.pt: nodes=17, feat_dim=86, undirected_edges=16, avg_degree=1.882, aromatic_count=6
+  Feature layout: 46 atom type + 11 degree + 7 implicit valence + 10 total H + 9 hybridization + 1 formal charge + 1 radical electrons + 1 aromatic
+  First 10 atoms (decoded):
+    atom 0: type=Si, degree=1, implicit_valence=3, total_num_hs=3, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 1: type=Si, degree=3, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=True
+    atom 2: type=P, degree=2, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=True
+    atom 3: type=Si, degree=2, implicit_valence=1, total_num_hs=1, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=True
+    atom 4: type=Si, degree=3, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=True
+    atom 5: type=Si, degree=2, implicit_valence=2, total_num_hs=2, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 6: type=Cl, degree=2, implicit_valence=0, total_num_hs=0, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 7: type=Al, degree=4, implicit_valence=0, total_num_hs=0, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 8: type=Cl, degree=1, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 9: type=Cl, degree=1, implicit_valence=1, total_num_hs=1, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+D00007.pt: nodes=10, feat_dim=86, undirected_edges=9, avg_degree=1.800, aromatic_count=0
+  Feature layout: 46 atom type + 11 degree + 7 implicit valence + 10 total H + 9 hybridization + 1 formal charge + 1 radical electrons + 1 aromatic
+  First 10 atoms (decoded):
+    atom 0: type=P, degree=1, implicit_valence=2, total_num_hs=2, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 1: type=Si, degree=3, implicit_valence=1, total_num_hs=1, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 2: type=Si, degree=2, implicit_valence=2, total_num_hs=2, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 3: type=Si, degree=2, implicit_valence=2, total_num_hs=2, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 4: type=Si, degree=3, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 5: type=Cl, degree=1, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 6: type=Cl, degree=1, implicit_valence=1, total_num_hs=1, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 7: type=Si, degree=3, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 8: type=Cl, degree=1, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 9: type=Cl, degree=1, implicit_valence=1, total_num_hs=1, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+D00011.pt: nodes=5, feat_dim=86, undirected_edges=4, avg_degree=1.600, aromatic_count=0
+  Feature layout: 46 atom type + 11 degree + 7 implicit valence + 10 total H + 9 hybridization + 1 formal charge + 1 radical electrons + 1 aromatic
+  First 10 atoms (decoded):
+    atom 0: type=P, degree=1, implicit_valence=2, total_num_hs=2, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 1: type=Si, degree=2, implicit_valence=2, total_num_hs=2, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 2: type=Si, degree=3, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 3: type=Cl, degree=1, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 4: type=Cl, degree=1, implicit_valence=1, total_num_hs=1, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+D00012.pt: nodes=6, feat_dim=86, undirected_edges=5, avg_degree=1.667, aromatic_count=0
+  Feature layout: 46 atom type + 11 degree + 7 implicit valence + 10 total H + 9 hybridization + 1 formal charge + 1 radical electrons + 1 aromatic
+  First 10 atoms (decoded):
+    atom 0: type=Si, degree=1, implicit_valence=3, total_num_hs=3, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 1: type=Si, degree=3, implicit_valence=1, total_num_hs=1, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 2: type=P, degree=1, implicit_valence=2, total_num_hs=2, hybridization=SP3D2, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 3: type=Si, degree=3, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 4: type=Cl, degree=1, implicit_valence=0, total_num_hs=0, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+    atom 5: type=Cl, degree=1, implicit_valence=1, total_num_hs=1, hybridization=SP3D, formal_charge=0.0, radical_electrons=0.0, aromatic=False
+
+Aggregate summary:
+Total graphs: 7
+Nodes -- min: 2, max: 53, mean: 19.57, median: 10
+Undirected edges -- min: 1, max: 58, mean: 20.14
+Feature dimensions present: [86]
+
+Top graphs by node count:
+D00005.pt: nodes=53, undirected_edges=58
+D00002.pt: nodes=44, undirected_edges=48
+D00006.pt: nodes=17, undirected_edges=16
+D00007.pt: nodes=10, undirected_edges=9
+D00012.pt: nodes=6, undirected_edges=5
+D00011.pt: nodes=5, undirected_edges=4
+D00003.pt: nodes=2, undirected_edges=1

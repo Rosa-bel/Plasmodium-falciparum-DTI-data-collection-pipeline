@@ -1,0 +1,74 @@
+PubChem activity EDA summary
+================================================================================
+Rows: 2597
+
+Activity outcome repartition:
+  Inactive: 2597
+
+Missing values:
+  organism: 2597 (100.00%)
+  gene_id: 2597 (100.00%)
+  protein_name: 2597 (100.00%)
+  protein_accession: 0 (0.00%)
+  aid: 0 (0.00%)
+  sid: 0 (0.00%)
+  activity_outcome: 0 (0.00%)
+  smiles: 0 (0.00%)
+  cid: 0 (0.00%)
+  extra_fields_json: 0 (0.00%)
+
+Top proteins by number of compounds:
+  O97467: compounds=445, active=0, inactive=446, unspecified=0, inconclusive=0
+  Q54A96: compounds=285, active=0, inactive=311, unspecified=0, inconclusive=0
+  Q9N6S8: compounds=275, active=0, inactive=292, unspecified=0, inconclusive=0
+  P05227: compounds=171, active=0, inactive=196, unspecified=0, inconclusive=0
+  O96935: compounds=106, active=0, inactive=106, unspecified=0, inconclusive=0
+  P90584: compounds=97, active=0, inactive=106, unspecified=0, inconclusive=0
+  Q965D5: compounds=80, active=0, inactive=83, unspecified=0, inconclusive=0
+  Q8II92: compounds=70, active=0, inactive=71, unspecified=0, inconclusive=0
+  P46925: compounds=67, active=0, inactive=70, unspecified=0, inconclusive=0
+  P13922: compounds=64, active=0, inactive=131, unspecified=0, inconclusive=0
+  Q8I4S1: compounds=44, active=0, inactive=44, unspecified=0, inconclusive=0
+  Q9NAW4: compounds=41, active=0, inactive=41, unspecified=0, inconclusive=0
+  Q9NBA7: compounds=39, active=0, inactive=39, unspecified=0, inconclusive=0
+  O61142: compounds=37, active=0, inactive=37, unspecified=0, inconclusive=0
+  Q8IL11: compounds=34, active=0, inactive=61, unspecified=0, inconclusive=0
+
+Top compounds by number of proteins:
+  2719: proteins=3, active=0, inactive=13, unspecified=0, inconclusive=0
+  156014518: proteins=2, active=0, inactive=2, unspecified=0, inconclusive=0
+  156012003: proteins=2, active=0, inactive=2, unspecified=0, inconclusive=0
+  156010935: proteins=2, active=0, inactive=2, unspecified=0, inconclusive=0
+  11591978: proteins=2, active=0, inactive=2, unspecified=0, inconclusive=0
+  11592397: proteins=2, active=0, inactive=2, unspecified=0, inconclusive=0
+  72703244: proteins=2, active=0, inactive=2, unspecified=0, inconclusive=0
+  72703245: proteins=2, active=0, inactive=2, unspecified=0, inconclusive=0
+  155926977: proteins=2, active=0, inactive=4, unspecified=0, inconclusive=0
+  71768352: proteins=2, active=0, inactive=2, unspecified=0, inconclusive=0
+  135406805: proteins=2, active=0, inactive=2, unspecified=0, inconclusive=0
+  23646363: proteins=2, active=0, inactive=2, unspecified=0, inconclusive=0
+  11624499: proteins=2, active=0, inactive=4, unspecified=0, inconclusive=0
+  11628282: proteins=2, active=0, inactive=2, unspecified=0, inconclusive=0
+  11628448: proteins=2, active=0, inactive=2, unspecified=0, inconclusive=0
+
+Per-protein active/inactive ratio overview:
+  W7JX98: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.000
+  O15770: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.000
+  O61142: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.000
+  O77078: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.000
+  O77239: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.000
+  O77344: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.000
+  Q8T6B1: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.000
+  Q8T6J6: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.000
+  Q8T9Z7: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.500
+  Q94661: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.000
+  Q965D5: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.038
+  Q965D6: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.000
+  Q965D7: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.000
+  Q9GSW0: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.000
+  P61075: active/inactive=0.000, active_ratio=0.000, inactive_ratio=2.000
+  P61076: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.200
+  P62344: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.143
+  P90584: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.093
+  Q07785: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.000
+  Q08210: active/inactive=0.000, active_ratio=0.000, inactive_ratio=1.615

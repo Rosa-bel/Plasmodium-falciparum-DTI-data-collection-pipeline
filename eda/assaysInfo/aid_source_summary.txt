@@ -1,0 +1,13 @@
+PubChem AID source verification summary
+============================================================
+Total AIDs requested: 8849
+Total summaries extracted: 635
+Failed requests or missing data: 1
+
+Source repartition:
+  ChEMBL: aids=600, distinct_source_ids=600
+  BindingDB: aids=28, distinct_source_ids=28
+  The Scripps Research Institute Molecular Screening Center: aids=7, distinct_source_ids=7
+
+Assay type repartition:
+  UNKNOWN: 635

@@ -1,0 +1,23 @@
+Activity metric EDA summary
+==========================
+Rows analyzed: 5506
+
+IC50
+  Global tests: 3354
+  Active rows: 3098
+  Inactive rows: 256
+  Rows with '<' or '>' relation: 238 / 3354 (7.1%)
+  These relation symbols were not used for the current range-based EDA.
+  Active mean/std (nM): 1879.854 / 2591.514
+  Inactive mean/std (nM): 166516.484 / 220835.241
+
+Inhibition: no rows found
+
+Ki
+  Global tests: 2152
+  Active rows: 2060
+  Inactive rows: 92
+  Rows with '<' or '>' relation: 10 / 2152 (0.5%)
+  These relation symbols were not used for the current range-based EDA.
+  Active mean/std (nM): 857.143 / 1782.237
+  Inactive mean/std (nM): 63263.587 / 68405.818

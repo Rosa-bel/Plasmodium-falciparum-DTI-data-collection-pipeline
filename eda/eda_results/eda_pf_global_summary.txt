@@ -1,0 +1,67 @@
+Total assays (rows) in file:                 714
+
+Null / missing value counts per column:
+  protein_target      :      0 null  (  0.0%)
+  gene_symbol         :    608 null  ( 85.2%)
+  gi                  :    714 null  (100.0%)
+  gene_id             :    608 null  ( 85.2%)
+  chembl_target_id    :      0 null  (  0.0%)
+  chembl_organism     :      0 null  (  0.0%)
+  active_compounds    :    328 null  ( 45.9%)
+  inactive_compounds  :    688 null  ( 96.4%)
+
+Assays missing chembl_target_id: 0 / 714 (0.0%) -- these could not be organism-verified upstream and should already have been filtered out by the scraper; any non-zero count here is worth double-checking.
+
+Unique proteins by chembl_target_id:   82
+Unique proteins by protein_target name: 74
+Unique protein GROUPS used for stats below (chembl_target_id, falling back to name): 82
+
+Global active/inactive compound mentions (raw SID mentions across all assay rows, NOT deduplicated across assays testing the same protein):
+  total active mentions:   3727
+  total inactive mentions: 273
+  total mentions:          4000
+  % active:   93.17%
+  % inactive: 6.83%
+
+Assays with NO active AND NO inactive compounds listed: 303 / 714 (42.4%)
+
+======================================================================
+
+Per-protein UNIQUE compound count distribution (deduplicated across all assays testing each protein):
+
+  ACTIVE compounds per protein:
+    count(proteins): 82
+    mean:   32.23
+    std:    72.88
+    min:    0
+    25%:    1
+    50%:    6
+    75%:    27
+    max:    447
+
+  INACTIVE compounds per protein:
+    count(proteins): 82
+    mean:   2.96
+    std:    16.63
+    min:    0
+    25%:    0
+    50%:    0
+    75%:    0
+    max:    108
+
+  TOTAL compounds per protein:
+    count(proteins): 82
+    mean:   35.20
+    std:    74.75
+    min:    0
+    25%:    1
+    50%:    6
+    75%:    28
+    max:    453
+
+  Proteins with ZERO unique compounds across ALL their assays: 14 / 82
+
+Number of assays per protein (how many assays tested each protein):
+    mean:   8.71
+    max:    109
+    proteins tested in >1 assay: 62 / 82

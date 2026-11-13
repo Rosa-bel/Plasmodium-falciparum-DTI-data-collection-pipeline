@@ -1,0 +1,83 @@
+protein_group_key,protein_target,gene_symbol,chembl_target_id,chembl_organism,n_assays,n_assays_with_no_compounds,n_unique_active_compounds,n_unique_inactive_compounds,n_unique_total_compounds,n_overlap_active_and_inactive_sids,pct_active_of_protein,pct_inactive_of_protein
+CHEMBL4414,Plasmepsin II,,CHEMBL4414,Plasmodium falciparum,53,2,447,6,453,0,98.67549668874172,1.3245033112582782
+CHEMBL4697,Hexose transporter 1,,CHEMBL4697,Plasmodium falciparum,3,2,377,0,377,0,100.0,0.0
+CHEMBL3486,Dihydroorotate dehydrogenase,,CHEMBL3486,Plasmodium falciparum,25,10,191,0,191,0,100.0,0.0
+CHEMBL5800,Cysteine proteinase falcipain 2a,,CHEMBL5800,Plasmodium falciparum,57,20,181,0,181,0,100.0,0.0
+CHEMBL1939,Bifunctional dihydrofolate reductase-thymidylate synthase,,CHEMBL1939,Plasmodium falciparum K1,109,41,160,9,169,0,94.67455621301775,5.325443786982248
+CHEMBL4687,Plasmepsin I,,CHEMBL4687,Plasmodium falciparum,14,0,164,0,164,0,100.0,0.0
+CHEMBL1908387,Calcium-dependent protein kinase 1,PF3D7_0217500,CHEMBL1908387,Plasmodium falciparum,20,16,22,108,130,0,16.923076923076923,83.07692307692308
+CHEMBL1908388,Cyclin-dependent kinase 2 homolog,PF3D7_1356900,CHEMBL1908388,Plasmodium falciparum (isolate 3D7),13,11,5,106,111,0,4.504504504504505,95.49549549549549
+CHEMBL4150,Enoyl-acyl-carrier protein reductase,,CHEMBL4150,Plasmodium falciparum,39,4,89,0,89,0,100.0,0.0
+CHEMBL1923,Histidine-rich protein PFHRP-II,,CHEMBL1923,Plasmodium falciparum,69,56,75,10,85,0,88.23529411764706,11.764705882352942
+CHEMBL3588732,"Dihydroorotate dehydrogenase (quinone), mitochondrial",PF3D7_0603300,CHEMBL3588732,Plasmodium falciparum (isolate 3D7),13,10,84,0,84,0,100.0,0.0
+CHEMBL3988607,Plasmepsin 4,,CHEMBL3988607,Plasmodium falciparum,8,2,75,0,75,0,100.0,0.0
+CHEMBL2169722,Glycylpeptide N-tetradecanoyltransferase,PF3D7_1412800,CHEMBL2169722,Plasmodium falciparum (isolate 3D7),6,2,69,0,69,0,100.0,0.0
+CHEMBL3301558,Cdk-related protein kinase 6,,CHEMBL3301558,Plasmodium falciparum,4,3,69,0,69,0,100.0,0.0
+CHEMBL4117,Aminopeptidase N,PF3D7_1311800,CHEMBL4117,Plasmodium falciparum FcB1/Columbia,6,2,45,0,45,0,100.0,0.0
+CHEMBL4523390,Plasmepsin X,PF3D7_0808200,CHEMBL4523390,Plasmodium falciparum (isolate 3D7),8,1,43,0,43,0,100.0,0.0
+CHEMBL4105915,Glycine hydroxymethyltransferase,,CHEMBL4105915,Plasmodium falciparum,1,0,42,0,42,0,100.0,0.0
+CHEMBL4222,Deoxyuridine 5'-triphosphate nucleotidohydrolase,,CHEMBL4222,Plasmodium falciparum 3D7,9,3,35,0,35,0,100.0,0.0
+CHEMBL2111381,Protein farnesyltransferase alpha subunit; CAAX farnesyltransferase subunit beta,,CHEMBL2111381,Plasmodium falciparum,5,3,35,0,35,0,100.0,0.0
+CHEMBL4090,MO15-related protein kinase Pfmrk,,CHEMBL4090,Plasmodium falciparum,9,5,31,0,31,0,100.0,0.0
+CHEMBL4295876,Falcilysin,PF3D7_1360800,CHEMBL4295876,Plasmodium falciparum (isolate 3D7),2,0,28,0,28,0,100.0,0.0
+CHEMBL5541,Histone deacetylase,,CHEMBL5541,Plasmodium falciparum,3,0,27,1,28,0,96.42857142857143,3.5714285714285716
+CHEMBL3559647,Apical membrane antigen 1,,CHEMBL3559647,Plasmodium falciparum (isolate 3D7),11,4,28,0,28,0,100.0,0.0
+CHEMBL1781857,Glycogen synthase kinase 3,,CHEMBL1781857,Plasmodium falciparum (isolate 3D7),6,4,27,0,27,0,100.0,0.0
+CHEMBL6169,Protein kinase domain-containing protein,,CHEMBL6169,Plasmodium falciparum,1,0,22,0,22,0,100.0,0.0
+CHEMBL2169724,cGMP-dependent protein kinase,,CHEMBL2169724,Plasmodium falciparum,3,1,21,0,21,0,100.0,0.0
+CHEMBL1697661,Cysteine protease falcipain-3,,CHEMBL1697661,Plasmodium falciparum,7,1,20,0,20,0,100.0,0.0
+CHEMBL5648,Purine nucleoside phosphorylase,,CHEMBL5648,Plasmodium falciparum,12,2,17,0,17,0,100.0,0.0
+CHEMBL2052035,Subtilisin-like protease 1,,CHEMBL2052035,Plasmodium falciparum,9,4,15,0,15,0,100.0,0.0
+CHEMBL4512,Beta-hydroxyacyl-ACP dehydratase precursor (Fatty acid synthesis protein),,CHEMBL4512,Plasmodium falciparum,7,3,15,0,15,0,100.0,0.0
+CHEMBL1741262,Plasmepsin IV,PF3D7_1407800,CHEMBL1741262,Plasmodium falciparum 3D7,2,0,14,0,14,0,100.0,0.0
+CHEMBL4513,3-oxoacyl-acyl-carrier protein reductase,,CHEMBL4513,Plasmodium falciparum,9,3,13,0,13,0,100.0,0.0
+CHEMBL4295619,"1-deoxy-D-xylulose 5-phosphate reductoisomerase, apicoplastic",PF3D7_1467300,CHEMBL4295619,Plasmodium falciparum (isolate 3D7),9,2,12,0,12,0,100.0,0.0
+CHEMBL3559649,Plasmepsin V,PF3D7_1323500,CHEMBL3559649,Plasmodium falciparum (isolate 3D7),8,2,10,0,10,0,100.0,0.0
+CHEMBL4968,Beta-ketoacyl-acyl carrier protein synthase III,,CHEMBL4968,Plasmodium falciparum,4,3,10,0,10,0,100.0,0.0
+CHEMBL5169236,Plasmepsin IX,PF3D7_1430200,CHEMBL5169236,Plasmodium falciparum,4,1,8,0,8,0,100.0,0.0
+CHEMBL5061,Glutathione reductase,,CHEMBL5061,Plasmodium falciparum 3D7,13,9,5,3,8,0,62.5,37.5
+CHEMBL1795182,Chloroquine resistance transporter,,CHEMBL1795182,Plasmodium falciparum,10,8,7,0,7,0,100.0,0.0
+CHEMBL4510,Cysteine protease falcipain-3,,CHEMBL4510,Plasmodium falciparum,3,0,7,0,7,0,100.0,0.0
+CHEMBL5465377,Threonyl-tRNA synthetase,,CHEMBL5465377,Plasmodium falciparum,4,1,7,0,7,0,100.0,0.0
+CHEMBL4547,Thioredoxin reductase,PF3D7_0923800.1,CHEMBL4547,Plasmodium falciparum 3D7,7,4,7,0,7,0,100.0,0.0
+CHEMBL1741266,DNA topoisomerase 2,,CHEMBL1741266,Plasmodium falciparum K1,1,0,6,0,6,0,100.0,0.0
+CHEMBL5803,Spermidine synthase,,CHEMBL5803,Plasmodium falciparum,3,0,6,0,6,0,100.0,0.0
+CHEMBL1250373,Falcipain-3,PF3D7_1115400,CHEMBL1250373,Plasmodium falciparum 3D7,2,0,6,0,6,0,100.0,0.0
+CHEMBL1293190,Histone deacetylase,,CHEMBL1293190,Plasmodium falciparum 3D7,7,4,6,0,6,0,100.0,0.0
+CHEMBL1250370,Cathepsin J,,CHEMBL1250370,Plasmodium falciparum 3D7,5,2,6,0,6,0,100.0,0.0
+CHEMBL6076,Adenosylhomocysteinase,,CHEMBL6076,Plasmodium falciparum 3D7,6,1,6,0,6,0,100.0,0.0
+CHEMBL3301561,Lysine--tRNA ligase,,CHEMBL3301561,Plasmodium falciparum (isolate 3D7),3,2,5,0,5,0,100.0,0.0
+CHEMBL6066156,P-type sodium-transporting ATPase4,,CHEMBL6066156,Plasmodium falciparum (isolate 3D7),9,5,5,0,5,0,100.0,0.0
+CHEMBL1250372,Dipeptidyl aminopeptidase 1,,CHEMBL1250372,Plasmodium falciparum 3D7,1,0,4,0,4,0,100.0,0.0
+CHEMBL4295621,"Pantothenate kinase 1, putative",,CHEMBL4295621,Plasmodium falciparum (isolate 3D7),2,0,4,0,4,0,100.0,0.0
+CHEMBL4523370,Adenosine deaminase,,CHEMBL4523370,Plasmodium falciparum,3,0,4,0,4,0,100.0,0.0
+CHEMBL5173,Orotidine 5'-phosphate decarboxylase,,CHEMBL5173,Plasmodium falciparum,5,2,3,0,3,0,100.0,0.0
+CHEMBL4523389,Purine nucleoside phosphorylase,PF3D7_0513300,CHEMBL4523389,Plasmodium falciparum (isolate 3D7),2,0,3,0,3,0,100.0,0.0
+CHEMBL6071,L-lactate dehydrogenase,,CHEMBL6071,Plasmodium falciparum,1,0,3,0,3,0,100.0,0.0
+CHEMBL4296323,Bifunctional dihydrofolate reductase-thymidylate synthase,,CHEMBL4296323,Plasmodium falciparum (isolate 3D7),2,0,2,0,2,0,100.0,0.0
+CHEMBL3488,Falcipain 2B,,CHEMBL3488,Plasmodium falciparum,1,0,2,0,2,0,100.0,0.0
+CHEMBL4295890,Histone acetyltransferase GCN5,,CHEMBL4295890,Plasmodium falciparum (isolate 3D7),3,1,2,0,2,0,100.0,0.0
+CHEMBL1293313,Leucine aminopeptidase,PF3D7_1446200,CHEMBL1293313,Plasmodium falciparum 3D7,9,7,2,0,2,0,100.0,0.0
+CHEMBL3301560,Proline--tRNA ligase,PF3D7_1213800,CHEMBL3301560,Plasmodium falciparum (isolate 3D7),1,0,1,0,1,0,100.0,0.0
+CHEMBL6075,Plasmepsin III,,CHEMBL6075,Plasmodium falciparum,1,0,1,0,1,0,100.0,0.0
+CHEMBL1697656,Glutathione S-transferase,PF3D7_1419300,CHEMBL1697656,Plasmodium falciparum,4,3,1,0,1,0,100.0,0.0
+CHEMBL1250369,Cathepsin J,,CHEMBL1250369,Plasmodium falciparum 3D7,1,0,1,0,1,0,100.0,0.0
+CHEMBL4105720,Heme ligase,PF3D7_1446800,CHEMBL4105720,Plasmodium falciparum (isolate 3D7),3,2,1,0,1,0,100.0,0.0
+CHEMBL4295891,Choline kinase,,CHEMBL4295891,Plasmodium falciparum (isolate 3D7),1,0,1,0,1,0,100.0,0.0
+CHEMBL2424511,3-oxoacyl-[acyl-carrier-protein] reductase,,CHEMBL2424511,Plasmodium falciparum (isolate 3D7),1,0,1,0,1,0,100.0,0.0
+CHEMBL1795086,"Heat shock protein 90, putative",,CHEMBL1795086,Plasmodium falciparum 3D7,4,2,1,0,1,0,100.0,0.0
+CHEMBL1795149,Arginase,PF3D7_0906500,CHEMBL1795149,Plasmodium falciparum,2,1,1,0,1,0,100.0,0.0
+CHEMBL2169725,Calcium-dependent protein kinase 4,PF3D7_0717500,CHEMBL2169725,Plasmodium falciparum (isolate 3D7),1,1,0,0,0,0,0.0,0.0
+CHEMBL3301469,Deoxyhypusine hydroxylase,,CHEMBL3301469,Plasmodium falciparum (isolate 3D7),1,1,0,0,0,0,0.0,0.0
+CHEMBL6077,Superoxide dismutase [Fe],,CHEMBL6077,Plasmodium falciparum,1,1,0,0,0,0,0.0,0.0
+CHEMBL6073,Aquaglyceroporin,,CHEMBL6073,Plasmodium falciparum,1,1,0,0,0,0,0.0,0.0
+CHEMBL3559677,Glyceraldehyde-3-phosphate dehydrogenase,,CHEMBL3559677,Plasmodium falciparum,4,4,0,0,0,0,0.0,0.0
+CHEMBL2189145,Cyclin-dependent kinase 2 homolog,,CHEMBL2189145,Plasmodium falciparum (isolate K1 / Thailand),5,5,0,0,0,0,0.0,0.0
+CHEMBL2052030,Phosphoethanolamine N-methyltransferase,PF3D7_1343000,CHEMBL2052030,Plasmodium falciparum,3,3,0,0,0,0,0.0,0.0
+CHEMBL4296306,Heat-shock protein,,CHEMBL4296306,Plasmodium falciparum,1,1,0,0,0,0,0.0,0.0
+CHEMBL4156,Fructose-bisphosphate aldolase,,CHEMBL4156,Plasmodium falciparum,1,1,0,0,0,0,0.0,0.0
+CHEMBL4295920,Apical membrane antigen 1,,CHEMBL4295920,Plasmodium falciparum,1,1,0,0,0,0,0.0,0.0
+CHEMBL4523484,GMP synthase [glutamine-hydrolyzing],PF3D7_1012600,CHEMBL4523484,Plasmodium falciparum,1,1,0,0,0,0,0.0,0.0
+CHEMBL1741261,Glutathione reductase,,CHEMBL1741261,Plasmodium falciparum K1,2,2,0,0,0,0,0.0,0.0
+CHEMBL5193,Heat shock 70 kDa protein,,CHEMBL5193,Plasmodium falciparum,1,1,0,0,0,0,0.0,0.0
+CHEMBL6147,Dihydrolipoyl dehydrogenase,,CHEMBL6147,Plasmodium falciparum,3,3,0,0,0,0,0.0,0.0
